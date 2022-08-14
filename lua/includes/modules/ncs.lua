@@ -1,3 +1,4 @@
+AddCSLuaFile()
 module( "ncs", package.seeall )
 
 local base_url = "https://ncs.io/"
